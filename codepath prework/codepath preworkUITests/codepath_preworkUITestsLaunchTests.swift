@@ -1,13 +1,13 @@
 //
-//  preworkUITestsLaunchTests.swift
-//  preworkUITests
+//  codepath_preworkUITestsLaunchTests.swift
+//  codepath preworkUITests
 //
-//  Created by Yonglin  Huang  on 1/13/22.
+//  Created by Yonglin  Huang  on 1/30/22.
 //
 
 import XCTest
 
-class preworkUITestsLaunchTests: XCTestCase {
+class codepath_preworkUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
